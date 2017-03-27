@@ -14,6 +14,7 @@ yum update
 ### 3、安装docker
 ```
 yum -y install docker
+```
 
 ### 4、启动docker
 ```
